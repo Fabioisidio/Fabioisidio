@@ -1,5 +1,9 @@
-<h1 align="center">Olá 👋, eu sou o Fábio!</h1>
-<h3 align="center">Atualmente, estou me aprofundando no universo de PHP no backend e JavaScript no frontend, com foco em me tornar um desenvolvedor Fullstack.</h3>
+<h1 align="center">Olá 👋, meu nome é Fábio!</h1>
+
+<h3 align="center">Atualmente, estou me aprofundando no universo de PHP para o backend e JavaScript para o frontend, com o objetivo de me tornar um desenvolvedor Fullstack, capaz de criar soluções completas e eficientes. Meu foco é adquirir uma sólida base de conhecimentos que me permita lidar com todas as camadas do desenvolvimento web, desde a lógica de servidor até a interface de usuário.</h3>
+
+<h4 align="center">Estou constantemente estudando e praticando com as ferramentas listadas abaixo, desenvolvendo projetos pessoais para aplicar o que aprendo e enfrentar novos desafios. Meu objetivo é evoluir como programador, sempre buscando aprimorar minhas habilidades e expandir meu conhecimento nas tecnologias mais relevantes do mercado.</h4>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
