@@ -5,11 +5,6 @@
 <h4 align="center">Estou constantemente estudando e praticando com as ferramentas listadas abaixo, desenvolvendo projetos pessoais para aplicar o que aprendo e enfrentar novos desafios. Meu objetivo é evoluir como programador, sempre buscando aprimorar minhas habilidades e expandir meu conhecimento nas tecnologias mais relevantes do mercado.</h4>
 
 
-<h3 align="left">Social media:</h3>
-<p align="left">
-  <a href="https://instagram.com/fabioisidio_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fabioisidio_" height="30" width="40" /> @fabioisidio_</a>
-</p>
-
 <h3 align="left">Social Media:</h3>
 <p align="left">
   <a href="https://instagram.com/fabioisidio_" target="blank">
