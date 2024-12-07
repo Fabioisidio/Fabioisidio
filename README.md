@@ -1,8 +1,11 @@
 <h1 align="center">Olá 👋, meu nome é Fábio!</h1>
 
-<h3 align="center">Atualmente, estou me aprofundando no universo de PHP para o backend e JavaScript para o frontend, com o objetivo de me tornar um desenvolvedor Fullstack, capaz de criar soluções completas e eficientes. Meu foco é adquirir uma sólida base de conhecimentos que me permita lidar com todas as camadas do desenvolvimento web, desde a lógica de servidor até a interface de usuário.</h3>
+<h5>Atualmente, estou me aprofundando no universo de PHP para o backend e JavaScript para o frontend, com o objetivo de me tornar um desenvolvedor Fullstack, capaz de criar soluções completas e eficientes.</h5>
 
-<h4 align="center">Estou constantemente estudando e praticando com as ferramentas listadas abaixo, desenvolvendo projetos pessoais para aplicar o que aprendo e enfrentar novos desafios. Meu objetivo é evoluir como programador, sempre buscando aprimorar minhas habilidades e expandir meu conhecimento nas tecnologias mais relevantes do mercado.</h4>
+<h5>Estou constantemente estudando e praticando com as ferramentas listadas abaixo, tenho alguns projetos práticos listados aqui na plataforma no repositório <strong>FI_ProjetosPráticos</strong></h5>
+
+<h3>Atualmente, estou trabalhando em um projeto pessoal chamado FI_Software, onde aplico continuamente os conhecimentos e aprendizados que adquiro para desenvolver um software de gestão. Assim que atingir a versão alfa, ele será disponibilizado aqui como "público".</h3>
+
 
 
 <h3 align="left">Social Media:</h3>
