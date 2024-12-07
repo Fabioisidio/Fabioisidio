@@ -2,7 +2,7 @@
 
 <h5>Atualmente, estou me aprofundando no universo de PHP para o backend e JavaScript para o frontend, com o objetivo de me tornar um desenvolvedor Fullstack, capaz de criar soluções completas e eficientes.</h5>
 
-<h5>Estou constantemente estudando e praticando com as ferramentas listadas abaixo, tenho alguns projetos práticos listados aqui na plataforma no repositório <strong>FI_ProjetosPráticos</strong></h5>
+<h5>Estou constantemente estudando e praticando com as ferramentas listadas abaixo, tenho alguns projetos práticos listados aqui na plataforma no repositório <strong>FI_ProjetosPraticos</strong></h5>
 
 <h3>Atualmente, estou trabalhando em um projeto pessoal chamado FI_Software, onde aplico continuamente os conhecimentos e aprendizados que adquiro para desenvolver um software de gestão. Assim que atingir a versão alfa, ele será disponibilizado aqui como "público".</h3>
 
